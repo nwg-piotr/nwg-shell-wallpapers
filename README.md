@@ -4,8 +4,6 @@
 This repository contains a selection of wallpapers contributed to the nwg-shell project. The logo you see in the title 
 is a creative reworking of the original nwg-shell logo, used in some wallpapers.
 
-First version of the nwg-shell logo was designed by [SGS](https://github.com/sgse). The author of the current version is [edskeye](https://github.com/edskeye).
-
 ## Contributing
 
 Developers should write code. There are designers to do drawing. That's why we're grateful for every piece of art you 
@@ -17,6 +15,9 @@ repository. We make selection out of there.
 3. Whatever you contribute, will be released under the terms of the [Creative Commons Zero v1.0 Universal license](https://github.com/nwg-piotr/nwg-shell-wallpapers/blob/main/LICENSE).
 
 ## Authors
+
+First version of the nwg-shell logo was designed by [SGS](https://github.com/sgse). The author of the version 
+currently in use is [edskeye](https://github.com/edskeye).
 
 1. Bad_Karma
 2. [edskeye](https://github.com/edskeye)
