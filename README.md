@@ -17,7 +17,9 @@ repository. We make selection out of there.
 ## Authors
 
 First version of the nwg-shell logo was designed by [SGS](https://github.com/sgse). The author of the version 
-currently in use is [edskeye](https://github.com/edskeye).
+currently in use is [edskeye](https://github.com/edskeye). 
+
+Wallpapers authors:
 
 1. Bad_Karma
 2. [edskeye](https://github.com/edskeye)
