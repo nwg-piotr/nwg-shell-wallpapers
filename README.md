@@ -2,7 +2,7 @@
 <H1>nwg-shell-wallpapers</H1><br>
 
 This repository contains a selection of wallpapers contributed to the nwg-shell project. The logo you see in the title 
-is a variation of the original [nwg-shell logo]{https://github.com/nwg-piotr/nwg-shell-resources/blob/master/resources/logo.svg, used in some wallpapers.
+is a variation of the original [nwg-shell logo](https://github.com/nwg-piotr/nwg-shell-resources/blob/master/resources/logo.svg), used in some wallpapers.
 
 ## Contributing
 
