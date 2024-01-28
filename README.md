@@ -1,4 +1,6 @@
-# nwg-shell-wallpapers
+<img src="https://github.com/nwg-piotr/nwg-shell-wallpapers/assets/20579136/d412727a-b892-4f84-857d-bbda6a3eb621" width="90" style="margin-right:10px" align=left alt="logo">
+<H1>nwg-shell-wallpapers</H1><br>
+
 This repository contains a selection of wallpapers contributed to the nwg-shell project.
 
 First version of the nwg-shell logo was designed by [SGS](https://github.com/sgse). The author of the current version is [edskeye](https://github.com/edskeye).
